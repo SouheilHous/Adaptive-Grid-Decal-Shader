@@ -31,7 +31,7 @@ The **Adaptive Grid Decal Shader** is a versatile shader designed for Unity's Un
 1. **Clone the Repository:**
 
    ```sh
-   git clone the repository
+   [git clone the repository](https://github.com/SouheilHous/Adaptive-Grid-Decal-Shader.git)
    ```
 
 2. **Import the Asset:**
